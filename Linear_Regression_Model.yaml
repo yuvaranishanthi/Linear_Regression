@@ -1,0 +1,12 @@
+name: Linear_Regression_Model
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - flask=2.3.2
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - scikit-learn=1.4.2
+  - pip
+  - pip:
+      - joblib==1.4.2
