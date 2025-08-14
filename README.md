@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction – Linear Regression
+#House Price Prediction – Linear Regression
 
 This project is a **Flask-based web application** that predicts house prices based on features such as square footage, number of bedrooms, and bathrooms.  
 It uses a **Linear Regression model** trained on the `House_sale_prediction.csv` dataset.
@@ -28,7 +28,7 @@ House_Price_Prediction/
 
 ---
 
-## ⚙️ Installation & Setup
+##Installation & Setup
 
 1. **Clone the repository**  
    ```bash
@@ -65,7 +65,7 @@ House_Price_Prediction/
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 1. Open the web app in your browser.
 2. Enter:
@@ -77,7 +77,7 @@ House_Price_Prediction/
 
 ---
 
-## 📦 Dependencies
+##Dependencies
 
 From `requirements.txt`:
 ```
@@ -90,7 +90,7 @@ joblib==1.4.2
 
 ---
 
-## 📑 Model Details
+##Model Details
 
 - **Algorithm:** Linear Regression
 - **Features used:**  
@@ -102,7 +102,7 @@ joblib==1.4.2
 
 ---
 
-## 📌 Notes
+##Notes
 - The trained model and scaler are stored in the `model/` directory.
 - You can modify `train_model.py` to use different features or algorithms.
 - Make sure `templates/` contains `home.html` and `result.html` for the app to run.
