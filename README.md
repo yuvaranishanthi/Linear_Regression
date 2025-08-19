@@ -101,6 +101,10 @@ joblib==1.4.2
 - **Dataset:** `House_sale_prediction.csv`
 
 ---
+Sample Output in image:
+
+<img width="1191" height="460" alt="image" src="https://github.com/user-attachments/assets/426d6199-a863-4623-8d70-e99ced180548" />
+<img width="1194" height="298" alt="image" src="https://github.com/user-attachments/assets/a72f260e-1f77-474a-ad7b-3b9fcee3f450" />
 
 ##Notes
 - The trained model and scaler are stored in the `model/` directory.
